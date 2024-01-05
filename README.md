@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel!</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
 
-- 🔭 I’m currently working at **Safety Jobs S.R.L**
+- 🔭 I’m currently working at **CodeSphere**
 
 - 💬 Ask me about **PHP, Laravel, Blade, JS etc...**
 

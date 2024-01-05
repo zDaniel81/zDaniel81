@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **PHP, Laravel, Blade, JS etc...**
 
-- 📫 How to reach me **danielavram1103@icloud.com**
+- 📫 How to reach me **daniel@codesphere.it**
 
 - ⚡ Fun fact **I am a Laravel Enthusiast!**
 
